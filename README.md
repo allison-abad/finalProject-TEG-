@@ -12,4 +12,4 @@ For this project I used markup languages HTML5 and CSS3. HTML holds the content 
 
 ## Lessons Learned:
 
-When using certain resources to enhance CSS, I've learned it's important to properly link files within the DOM to allow proper exposure onto the client server side. 
+When using certain resources to enhance CSS, I've learned it's important to properly link files within the DOM to allow proper design/content exposure onto the client server side. 
