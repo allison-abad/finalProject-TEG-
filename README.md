@@ -1,5 +1,5 @@
 # finalProject TEG
-Here I built a layout of my final project, a fintenss application using HTML5 & CSS3.
+Here I built a layout of my final project, a fitness application using HTML5 & CSS3.
 
 ![screen shot 2018-07-07 at 11 52 52 am](https://user-images.githubusercontent.com/39247861/42412548-73821bec-81dc-11e8-8a50-bd3b4866d53c.png)
 
