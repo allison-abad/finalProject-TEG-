@@ -1,0 +1,50 @@
+* { box-sizing: border-box;
+}
+body{
+  text-align: center;
+  background:url(https://i.pinimg.com/736x/80/b4/79/80b4790edf597e247e31a2a8ee67c380--white-marble-wallpapers.jpg)
+}
+h1{
+  font-family: 'Permanent Marker', cursive;
+  font-size: 39px;
+  text-align: left;
+  margin-left: 54px;
+}
+span{
+  font-family: 'Cardo', serif;
+  text-align: left;
+  margin-right: 1300px;
+}
+.main{
+  border: 1px solid black;
+  width: 100%;
+  height:400px;
+  background: url("https://i.pinimg.com/236x/fd/2d/93/fd2d93b9f8ed53d41cb36e2561b6c1a5.jpg");
+  background-position: center;
+  background-size: contain;
+  margin-top: 2em;
+
+
+}
+#button, #boton{
+  border: 5px solid black;
+  height: 50px;
+  margin-top: 210px;
+  color: black;
+  font-size: 20px;
+  font-family: 'Cardo', serif;
+}
+ul li{
+  list-style: none;
+  font-size: 30px;
+  display: inline-block;
+  margin-right: 92px;
+}
+
+/**************************** Mobile Responsive *****************************/
+@media only screen and (max-width: 500px){
+span{
+font-family: 'Cardo', serif;
+text-align: left;
+}
+}
